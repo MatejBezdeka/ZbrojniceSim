@@ -1,0 +1,9 @@
+C:\Users\matab\Desktop\nejakaslozka\testGut\Zbrojnice\Zbrojnice\bin\Debug\Zbrojnice.exe.config
+C:\Users\matab\Desktop\nejakaslozka\testGut\Zbrojnice\Zbrojnice\bin\Debug\Zbrojnice.exe
+C:\Users\matab\Desktop\nejakaslozka\testGut\Zbrojnice\Zbrojnice\bin\Debug\Zbrojnice.pdb
+C:\Users\matab\Desktop\nejakaslozka\testGut\Zbrojnice\Zbrojnice\obj\Debug\Zbrojnice.csprojAssemblyReference.cache
+C:\Users\matab\Desktop\nejakaslozka\testGut\Zbrojnice\Zbrojnice\obj\Debug\Zbrojnice.Properties.Resources.resources
+C:\Users\matab\Desktop\nejakaslozka\testGut\Zbrojnice\Zbrojnice\obj\Debug\Zbrojnice.csproj.GenerateResource.cache
+C:\Users\matab\Desktop\nejakaslozka\testGut\Zbrojnice\Zbrojnice\obj\Debug\Zbrojnice.csproj.CoreCompileInputs.cache
+C:\Users\matab\Desktop\nejakaslozka\testGut\Zbrojnice\Zbrojnice\obj\Debug\Zbrojnice.exe
+C:\Users\matab\Desktop\nejakaslozka\testGut\Zbrojnice\Zbrojnice\obj\Debug\Zbrojnice.pdb
