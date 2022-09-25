@@ -7,3 +7,4 @@ C:\Users\matab\Desktop\nejakaslozka\testGut\Zbrojnice\Zbrojnice\obj\Debug\Zbrojn
 C:\Users\matab\Desktop\nejakaslozka\testGut\Zbrojnice\Zbrojnice\obj\Debug\Zbrojnice.csproj.CoreCompileInputs.cache
 C:\Users\matab\Desktop\nejakaslozka\testGut\Zbrojnice\Zbrojnice\obj\Debug\Zbrojnice.exe
 C:\Users\matab\Desktop\nejakaslozka\testGut\Zbrojnice\Zbrojnice\obj\Debug\Zbrojnice.pdb
+C:\Users\matab\Desktop\nejakaslozka\testGut\Zbrojnice\Zbrojnice\obj\Debug\Zbrojnice.Form1.resources
